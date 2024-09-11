@@ -56,6 +56,10 @@ module.exports = {
           dark: "#1E232E",
           light: "#F0F2F9",
         },
+        primary: 'var(--color-primary)',
+        secondary: 'var(--color-secondary)',
+        dark: 'var(--color-dark)',
+        light: 'var(--color-light)',
       },
 
       boxShadow: {
